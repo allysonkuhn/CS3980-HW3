@@ -32,7 +32,7 @@ db.movies.find(
 
 **Result:**
 
-![Query 1](query1.png)
+![Query 1](Query1.png)
 
 ---
 
@@ -51,4 +51,4 @@ db.movies.find(
 
 **Result:**
 
-![Query 2](query2.png)
+![Query 2](Query2.png)
